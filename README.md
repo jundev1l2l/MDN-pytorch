@@ -3,3 +3,4 @@ Unofficial PyTorch implementation of **Mixture Density Network** proposed in *"U
 - Regression (toy example)
 - multi-dimensional output
 - independent-output setting
+
